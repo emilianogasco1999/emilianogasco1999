@@ -36,7 +36,8 @@ Este es mi **portfolio personal**, donde presento mis proyectos, habilidades y u
 ## 📫 Contacto
 
 - ✉️ Email: emilianogasco@gmail.com 
-- 💼 LinkedIn: www.linkedin.com/in/emiliano-augusto-gasco  
+- 💼 LinkedIn: www.linkedin.com/in/emiliano-augusto-gasco
+- 🌐 Portfolio: https://portafolioemilianogasco.netlify.app
 
 ---
 
