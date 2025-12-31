@@ -12,7 +12,6 @@ Este es mi **portfolio personal**, donde presento mis proyectos, habilidades y u
 - 🎨 Amante del diseño gráfico (Photoshop, Illustrator, vectores)  
 - 🛠 Técnico en Computación y Redes  
 - 🚧 Actualmente estudiando Técnico en Programación  
-- 🎨 Además, tengo un emprendimiento de **alfombras personalizadas** donde aplico diseño y creatividad  
 
 ---
 
