@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Emiliano Gasco
 
-Soy Técnico Superior en Computación y Redes, actualmente cursando la carrera de Técnico en Programación.  
+Soy Técnico Superior en Computación y Redes y soy Técnico Superior en Programación.  
 Trabajo como desarrollador Full Stack con experiencia en el stack MERN, diseño de interfaces y herramientas creativas.  
 Este es mi **portfolio personal**, donde presento mis proyectos, habilidades y un poco sobre mi perfil profesional.
 
